@@ -13,8 +13,8 @@ The AI Web Scraper is a Python-based tool designed to automate web data extracti
 ## 🧰 Technologies Used
 - **Programming Languages**: Python
 - **Libraries and Frameworks**: 
-      -Selenium, BeautifulSoup, Streamlit
-      -LangChain, Ollama LLM
+      Selenium, BeautifulSoup, Streamlit
+      LangChain, Ollama LLM
 - **Other Tools:**: HTML parsers(lxml, html5lib)
 
 
